@@ -1,0 +1,63 @@
+body{
+    background-image: url(img/y-so-serious/y-so-serious/y-so-serious.png);
+}
+
+#carousel-inner{
+    width: 80%;
+}
+
+.imagen{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 100%;
+}
+
+#texto_presentacion{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    color: teal;
+    width: 55%;
+    margin: 70px 0 0 425px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 1.5%;
+    text-align: center;
+}
+
+ .card{
+    margin: 2.5%;
+ }
+ 
+
+ #navegador li a:hover{
+    background-color: #333333;
+    color: #ffffff;
+ }
+
+ .texto{ 
+    font: bold 16px, Serif; 
+}
+
+ .producto{
+    width: 90%;
+    margin: 2.5%;
+    background-color: white;
+    border-radius: 5px;
+    float: left;
+    padding: 1.5%;
+    text-align: center;
+ }
+ .form-group{
+    color: teal;
+    margin: 2.5%;
+ }
+ #conteiner-form{
+    margin: 5%;
+ }
+#btn{
+    margin-top: 2.5%;
+}
+
+ #formas{
+     margin: 1.5%;
+ }
